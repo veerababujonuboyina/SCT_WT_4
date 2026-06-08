@@ -7,20 +7,3 @@ Smart To-Do Web App
 
 A modern and responsive To-Do List application built with HTML, CSS, and JavaScript. This application helps users organize daily tasks efficiently with features like task completion tracking, progress monitoring, date & time scheduling, and local storage persistence.
 
-Features
-Add new tasks
-Edit existing tasks
-Delete tasks
-Mark tasks as completed
-Set date and time for tasks
-Progress bar with completion percentage
-Total, Completed, and Pending task statistics
-Local Storage support
-Responsive design
-Modern Glassmorphism UI
-Technologies Used
-HTML5
-CSS3
-JavaScript (ES6)
-Local Storage API
-Font Awesome Icons
